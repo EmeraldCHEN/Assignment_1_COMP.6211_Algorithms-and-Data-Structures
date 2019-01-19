@@ -3,8 +3,6 @@ using System.Collections;
 
 /* Developer : Yuan Chen (Emerald)
 
- Student ID: 27-044-044
-
  This program will obtain a word or sentence from the user, then the input will be displayed back to the screen in reverse without any space
 
  If the user presses the backspace key, the last entered character will be deleted from the console screen  */
