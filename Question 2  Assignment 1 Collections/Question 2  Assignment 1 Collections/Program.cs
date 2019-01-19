@@ -5,8 +5,6 @@ using System.Linq;
 
 // Developer : Yuan Chen (Emerald)
 
-// Student ID: 27-044-044
-
 // This program will obtain an infix expression from the user and create the postfix to output it to the console screen
 
 namespace Question_2__Assignment_1_Collections
