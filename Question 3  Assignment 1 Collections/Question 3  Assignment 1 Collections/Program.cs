@@ -3,8 +3,6 @@ using System.Collections;
 
 // Developer : Yuan Chen (Emerald) 
 
-// Student ID: 27-044-044
-
 // This program containing a generic class (“MyQueue”) that has 3 methods to simulate those of a queue while using an Array List instead of a Queue -_-||
 
 namespace Question_3__Assignment_1_Collections
